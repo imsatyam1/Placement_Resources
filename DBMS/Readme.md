@@ -39,7 +39,7 @@ This section covers all the key DBMS concepts, notes, important interview questi
 
 ## 🧪 Practice Questions
 
-- [🧾 SQL Query Practice Set](.)
+- [🧾 SQL Query Practice Set](./Leetcode_SQL.pdf)
 - Query based on:
   - Joins
   - Aggregation
