@@ -25,13 +25,13 @@ This section covers all the key DBMS concepts, notes, important interview questi
 ## 📝 Notes & Summaries
 
 - [📄 DBMS Notes PDF](./dbms_notes.pdf)
-- [🧠 DBMS Cheat Sheet](./dbms_cheatsheet.pdf)
+- [🧠 DBMS Cheat Sheet](./sql%CHEETSHEET.pdf)
 
 ---
 
 ## ❓ Interview Questions
 
-- [💬 Top DBMS Interview Questions](./dbms_interview_questions.md)
+- [💬 Top DBMS Interview Questions](./100%20DBMS%20Interview%20Questions%20.pdf.md)
 - Real-world scenario questions
 - DBMS questions asked in companies like Amazon, TCS, Infosys, Google, etc.
 
@@ -39,7 +39,7 @@ This section covers all the key DBMS concepts, notes, important interview questi
 
 ## 🧪 Practice Questions
 
-- [🧾 SQL Query Practice Set](./Leetcode_SQL.pdf)
+- [🧾 SQL Query Practice Set](./Leetcode%SQL.pdf)
 - Query based on:
   - Joins
   - Aggregation
